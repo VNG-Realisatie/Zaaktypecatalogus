@@ -16,5 +16,6 @@ De GEMMA ZTC2 bestaat uit de volgende onderdelen:
 * waardenlijsten voor de referentielijsten in ImZTC (i.c. ‘generieke documenttypen’),
 * zaaktypecatalogi met standaard- en voorbeeldzaaktypen en
 * een beschrijving van de wijze waarop de ZTC2 beheerd wordt (het Beheermodel).
+
 Deze documenten treft u hieronder aan (het beheermodel maakt deel uit van het Begeleidend document). Zie ook de [toelichting op het werken met zaaktypen](https://www.gemmaonline.nl/index.php/Zaaktypen).
 
