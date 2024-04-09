@@ -16,8 +16,8 @@ De GEMMA ZTC2 bestaat uit de volgende onderdelen:
 Deze documenten kunt u vinden in de [lijst met documenten](./Documentatie).
 
 Ook de volgende documenten maken onderdeel uit van GEMMA ZTC2:
-* een gedetailleerd informatiemodel (Informatiemodel ZTC 2.1, kortweg [ImZTC 2.1](https://vng-realisatie.github.io/Standaarden/documenten/GEMMA_ZTC2_-_Informatiemodel_v2.1_20140701.pdf)),
+* een gedetailleerd informatiemodel (Informatiemodel ZTC 2.1, kortweg [ImZTC 2.1](https://vng-realisatie.github.io/Standaarden/documenten/ImZTC/GEMMA_ZTC2_-_Informatiemodel_v2.1_20140701.pdf)),
 * [de vertaling daarvan naar een uitwisselformaat (StUF-ZTC)](https://vng-realisatie.github.io/StUF-ZTC/documenten/Verstuffing_ZTC.pdf),
-* waardenlijsten voor de referentielijsten in ImZTC (i.c. ‘generieke documenttypen’),
+* [waardenlijsten voor de referentielijsten](https://vng-realisatie.github.io/Standaarden/documenten/ImZTC/GEMMA_ZTC2_-_referentiewaardenlijsten_v2.1.xlsx.zip) in ImZTC (i.c. ‘generieke documenttypen’),
 
  Zie ook de [toelichting op het werken met zaaktypen](https://www.gemmaonline.nl/index.php/Zaaktypen).
