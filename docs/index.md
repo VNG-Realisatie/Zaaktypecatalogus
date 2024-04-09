@@ -8,13 +8,16 @@ Gemeenten werken aan het verbeteren van hun publieke dienstverlening, de besturi
 
 De GEMMA ZTC2 bestaat uit de volgende onderdelen:
 
-* het Begeleidend document met de visie van VNG Realisatie op de zaaktypecatalogus en de uitgangspunten, het gebruik, de opzet, en het informatiemodel van de GEMMA Zaaktypecatalogus 2,
+* het Begeleidend document met de visie van VNG Realisatie op de zaaktypecatalogus en de uitgangspunten, het gebruik, de opzet, het informatiemodel van de GEMMA Zaaktypecatalogus 2 en een beschrijving van de wijze waarop de GEMMA ZTC2 wordt beheerd (het Beheermodel).
 * de Referentie-zaaktype-beschrijvingen (‘Bezwaar behandelen’, ‘Subsidieaanvraag behandelen’, etc.), die kunnen dienen als startpunt voor de uitwerking van eigen, daarvan afgeleide, zaaktypen,
 * een Sjabloon voor het specificeren van een zaaktype, ook te gebruiken voor ‘het goede gesprek’ over de vertaling van een proces naar een zaaktype en voor het registreren van het zaaktype in een applicatie,
-* een gedetailleerd informatiemodel (Informatiemodel ZTC, kortweg ImZTC),
-* de vertaling daarvan naar een uitwisselformaat (StUF-ZTC),
-* waardenlijsten voor de referentielijsten in ImZTC (i.c. ‘generieke documenttypen’),
-* zaaktypecatalogi met standaard- en voorbeeldzaaktypen en
-* een beschrijving van de wijze waarop de ZTC2 beheerd wordt (het Beheermodel).
+* zaaktypecatalogi met standaard- en voorbeeldzaaktypen.
 
-Deze documenten treft u hieronder aan (het beheermodel maakt deel uit van het Begeleidend document). Zie ook de [toelichting op het werken met zaaktypen](https://www.gemmaonline.nl/index.php/Zaaktypen).
+Deze documenten kunt u vinden in de [lijst met documenten](./Documentatie).
+
+Ook de volgende documenten maken onderdeel uit van GEMMA ZTC2:
+* een gedetailleerd informatiemodel (Informatiemodel ZTC 2.1, kortweg [ImZTC 2.1](https://vng-realisatie.github.io/Standaarden/documenten/GEMMA_ZTC2_-_Informatiemodel_v2.1_20140701.pdf)),
+* [de vertaling daarvan naar een uitwisselformaat (StUF-ZTC)](https://vng-realisatie.github.io/StUF-ZTC/documenten/Verstuffing_ZTC.pdf),
+* waardenlijsten voor de referentielijsten in ImZTC (i.c. ‘generieke documenttypen’),
+
+ Zie ook de [toelichting op het werken met zaaktypen](https://www.gemmaonline.nl/index.php/Zaaktypen).
